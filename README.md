@@ -1,4 +1,4 @@
-- 👋 ¡Hola! Soy Daniel Castaño
+👋 ¡Hola! Soy Daniel Castaño
 - 📊 Un Data Scientist apasionado por solucionar distintos problemas de negocio
 
 🌟 Sobre mí
